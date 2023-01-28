@@ -1,0 +1,11 @@
+﻿  Text_Editor.cpp
+C:\Projects\Mini Text Editor\Text_Editor.cpp(209,11): warning C4129: 'C': unrecognized character escape sequence
+C:\Projects\Mini Text Editor\Text_Editor.cpp(223,10): warning C4129: 'C': unrecognized character escape sequence
+C:\Projects\Mini Text Editor\Text_Editor.cpp(299,10): warning C4129: 'S': unrecognized character escape sequence
+C:\Projects\Mini Text Editor\Text_Editor.cpp(368,11): warning C4129: 'F': unrecognized character escape sequence
+C:\Projects\Mini Text Editor\Text_Editor.cpp(379,21): warning C4018: '<': signed/unsigned mismatch
+C:\Projects\Mini Text Editor\Text_Editor.cpp(417,11): warning C4129: 'F': unrecognized character escape sequence
+C:\Projects\Mini Text Editor\Text_Editor.cpp(441,21): warning C4018: '<': signed/unsigned mismatch
+C:\Projects\Mini Text Editor\Text_Editor.cpp(468,12): warning C4129: 'F': unrecognized character escape sequence
+C:\Projects\Mini Text Editor\Text_Editor.cpp(484,10): warning C4129: 'D': unrecognized character escape sequence
+  Mini Text Editor.vcxproj -> C:\Projects\Mini Text Editor\Debug\Mini Text Editor.exe
